@@ -1,4 +1,4 @@
-# Terraform Docker Container
+# Terraform Docker Container (Task: 3)
 
 ## Overview
 This task provisions a local Docker container using Terraform.
@@ -13,3 +13,13 @@ This task provisions a local Docker container using Terraform.
 ## Outcome
 - Learned Infrastructure as Code (IaC) concepts
 - Understood Terraform workflow (init → plan → apply → destroy)
+
+---
+# Version-Controlled Project With Git (Task: 4)
+- **Objective:** Manage a DevOps project using Git best practices.  
+- **Tools Used:** Git, GitHub  
+- **Deliverables:**  
+  - Repo initialized and pushed to GitHub  
+  - Branching (`main`, `dev`, `feature/*`)  
+  - Pull Requests used for merges  
+  - `.gitignore` configured
